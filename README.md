@@ -1,8 +1,16 @@
 - You are in An UNTAMED space right now...
-- Icant limit my Originality to a specific place in time...
-- And neither can I my for Judgement, Comprehension, acceptance, understanding and tolerance of circumstances.
-- That goes to torch that I'm in on anything transparent and understood.
-- Else, Don't --->out
+- visual and audio out ch 1 ... Iff
+- visual and audio in ch 1 ... Iff
+ versatile Originality: no specific place in time...
+Judgement, Comprehension, acceptance, understanding and tolerance of circumstances: ins = outs (error -+ 0.05)
+  Diversity In expectations.
+Trust = lock / open
+
+$Transparency = Reflection
+
+$output: Happiness
+
+$Else, X--->out
 
 <!---
 Djackuntamed/Djackuntamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
